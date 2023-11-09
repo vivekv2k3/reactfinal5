@@ -1,0 +1,25 @@
+.agecalculator {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.agebtn {
+  width: 150px;
+  height: 50px;
+  font-size: larger;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #007cfe;
+  border-radius: 2px;
+  border: 1px solid #007cfe;
+  color: white;
+}
+
+.ageinput {
+  width: 200px;
+  height: 40px;
+  font-size: larger;
+  text-align: center;
+}
